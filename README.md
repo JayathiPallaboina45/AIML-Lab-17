@@ -4,3 +4,4 @@ https://github.com/JayathiPallaboina45/AIML-Lab-17/blob/main/AIML%20ASSIGNMENT2.
 https://github.com/JayathiPallaboina45/AIML-Lab-17/blob/main/Assignment%203.ipynb
 https://github.com/JayathiPallaboina45/AIML-Lab-17/blob/main/Assignment4.ipynb
 https://github.com/JayathiPallaboina45/AIML-Lab-17/blob/main/aiml%20assignment%2005.ipynb
+https://github.com/JayathiPallaboina45/AIML-Lab-17/blob/main/Lab06-AIML.ipynb
