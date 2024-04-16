@@ -8,3 +8,4 @@ https://github.com/JayathiPallaboina45/AIML-Lab-17/blob/main/Lab06-AIML.ipynb
 https://github.com/JayathiPallaboina45/AIML-Lab-17/blob/main/Assignment7.ipynb
 https://github.com/JayathiPallaboina45/AIML-Lab-17/blob/main/Lab08-Decision_Tree.ipynb
 https://github.com/JayathiPallaboina45/AIML-Lab-17/blob/main/Lab09-RF_Classification.ipynb
+https://github.com/JayathiPallaboina45/AIML-Lab-17/blob/main/aiml_asgn10.ipynb
